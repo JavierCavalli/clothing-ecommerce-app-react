@@ -1,37 +1,37 @@
-import DirectoryItem from '../directory-item/directory-item.component';
+import DirectoryItem from "../directory-item/directory-item.component";
 
-import { DirectoryContainer } from './directory.styles';
+import { DirectoryContainer } from "./directory.styles";
 
 const categories = [
   {
     id: 1,
-    title: 'hats',
-    imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
-    route: 'shop/hats',
+    title: "Accesorios",
+    imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+    route: "shop/accesorios",
   },
   {
     id: 2,
-    title: 'jackets',
-    imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
-    route: 'shop/jackets',
+    title: "Camperas",
+    imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+    route: "shop/camperas",
   },
   {
     id: 3,
-    title: 'sneakers',
-    imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
-    route: 'shop/sneakers',
+    title: "Zapatillas",
+    imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+    route: "shop/zapatillas",
   },
   {
     id: 4,
-    title: 'womens',
-    imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
-    route: 'shop/womens',
+    title: "Mujeres",
+    imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
+    route: "shop/mujeres",
   },
   {
     id: 5,
-    title: 'mens',
-    imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
-    route: 'shop/mens',
+    title: "Hombres",
+    imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+    route: "shop/hombres",
   },
 ];
 

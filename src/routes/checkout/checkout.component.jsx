@@ -23,19 +23,19 @@ const Checkout = () => {
     <CheckoutContainer>
       <CheckoutHeader>
         <HeaderBlock>
-          <span>Product</span>
+          <span>Producto</span>
         </HeaderBlock>
         <HeaderBlock>
-          <span>Description</span>
+          <span>Descripcion</span>
         </HeaderBlock>
         <HeaderBlock>
-          <span>Quantity</span>
+          <span>Cantidad</span>
         </HeaderBlock>
         <HeaderBlock>
-          <span>Price</span>
+          <span>Precio</span>
         </HeaderBlock>
         <HeaderBlock>
-          <span>Remove</span>
+          <span>Remover</span>
         </HeaderBlock>
       </CheckoutHeader>
       {cartItems.map((cartItem) => (

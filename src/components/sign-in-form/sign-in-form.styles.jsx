@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const SignInContainer = styled.div`
   display: flex;
@@ -13,4 +13,14 @@ export const SignInContainer = styled.div`
 export const ButtonsContainer = styled.div`
   display: flex;
   justify-content: space-between;
+
+  .regular-btn {
+    font-size: 14px;
+    font-family: Encode Sans Condensed;
+  }
+
+  .google-btn {
+    font-size: 14px;
+    font-family: Encode Sans Condensed;
+  }
 `;
