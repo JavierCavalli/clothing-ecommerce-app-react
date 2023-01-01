@@ -1,5 +1,19 @@
-# Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una e commerce hecho con react y styledcomponents (y scss) con el cual te podes registrar/loguear (firestore / redux) podes comprar items hechos en la firestore database (stripe) la idea era hacer un proyecto para aprender redux y styled components, a futuro pienso pasarlo a typescript y integrar GraphQL.
+
+## Built With: 
+
+1. React
+2. Redux
+3. SCSS
+4. FireStore
+5. Stripe
+6. Styled Components
+
+## Demo: 
+
+https://gilded-brioche-5ea112.netlify.app/
+
+![image](https://i.ibb.co/9v19nD7/Clothingapp-cuadrada.png)
 
 ## Available Scripts
 
@@ -18,7 +32,7 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm build`
+### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -28,7 +42,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm eject`
+### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -64,6 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm build` fails to minify
+### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
