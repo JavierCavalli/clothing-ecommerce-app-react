@@ -13,7 +13,7 @@ Este proyecto es una e commerce hecho con react y styledcomponents (y scss) con 
 
 https://gilded-brioche-5ea112.netlify.app/
 
-![image](https://i.ibb.co/9wpcZ7Y/clothing-store.png)
+![image](https://i.ibb.co/9v19nD7/Clothingapp-cuadrada.png)
 
 ## Available Scripts
 
