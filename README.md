@@ -1,4 +1,5 @@
-Este proyecto es una e commerce hecho con react y styledcomponents (y scss) con el cual te podes registrar/loguear (firestore / redux) podes comprar items hechos en la firestore database (stripe) la idea era hacer un proyecto para aprender redux y styled components, a futuro pienso pasarlo a typescript y integrar GraphQL.
+E-commerce site built with React, Redux, Styles-Components, SCSS, FireBase and Stripe, i created this website as a project that included several technologies in order to have a template to work with for future clients.
+The website includes a Login that allows you to login with both Google or FireStore(FireBase) db.
 
 ## Built With: 
 
