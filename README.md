@@ -1,5 +1,7 @@
-E-commerce site built with React, Redux, Styles-Components, SCSS, FireBase and Stripe, i created this website as a project that included several technologies in order to have a template to work with for future clients.
+E-commerce website built with React, Redux, Styles-Components, SCSS, FireBase and Stripe, i created this website as a project that included several technologies in order to have a template to work with future clients.
 The website includes a Login that allows you to login with both Google or FireStore(FireBase) db.
+Items Are added to the store with a firebase collection.
+Stripe is enabled as paying methoc (testing only)
 
 ## Built With: 
 
