@@ -47,8 +47,8 @@ const SignInForm = () => {
 
   return (
     <SignInContainer>
-      <h2>Ya tenes una cuenta?</h2>
-      <span>Entra con tu mail y contraseña:</span>
+      <h2>Already have an account?</h2>
+      <span>Login with your Email and Password</span>
       <form onSubmit={handleSubmit}>
         <FormInput
           label="Email"
@@ -77,7 +77,7 @@ const SignInForm = () => {
             onClick={signInWithGoogle}
             className="google-btn"
           >
-            Log in con Google
+            Log in with Google
           </Button>
         </ButtonsContainer>
       </form>
